@@ -1,21 +1,24 @@
-## Politique 
-Dernière mise à jour : 12 octobre
-Fencing Scoring
+## Fencing Scoring : Privacy policy
 
-1. Collecte d'informations
-Notre application ne collecte et ne stocke aucune informations personnelles 
+Welcome to the PretAllez app for Android!
 
-2. Utilisation des fonctionnalités de l'appareil
-vibrations deaucune donnée n'est collectée ou enregistréeà ce sujet
+This is an open source Android app developed by Pythia. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
-3. Partage des
-Étant donné que notre application ne collecte aucune donnée personnelle ,
 
-4. Sécurité
-Bien que nous n'accédions ni ne collectons d'informations personnelles, nous nous engageons à garantir la sécurité des interactions entre notre application et votre appareil. L'accès à la fonctionnalité de vibration est strictement encadré et limité à
+I hereby state that this app does not collect any personally identifiable information. All data is stored on your device only and only while the app is in use. This app should only be used in conjunction with a secondary recording method as a app crash would cause you to loose the data.
 
-5. Modifications de cette politique
-Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera immédiatement publiée sur cette page. Nous vous recommandons de consulter régulièrement cette politique afin de vous assurer d'être informé des éventuelles mises à jour.
+### Explanation of permissions requested in the app
 
-6
-contactez @app .com .
+<br/>
+
+| Permission | Why it is required |
+| :---: | --- |
+| `android.permission.VIBRATE` | Required to vibrate the device when time goes to zero. Permission automatically granted by the system; can't be revoked by user. |
+
+ <hr style="border:1px solid gray">
+
+If you have any question regarding how the app protectes your privacy, please send use an email .
+
+Yours sincerely,  
+Pythia
+pythiaHelp@gmail.com
