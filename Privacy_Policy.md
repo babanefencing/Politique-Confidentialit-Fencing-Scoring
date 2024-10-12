@@ -11,6 +11,7 @@ I hereby state that this app does not collect any personally identifiable inform
 | Permission | Why it is required |
 | :---: | --- |
 | `android.permission.VIBRATE` | Required to vibrate the device when time goes to zero. Permission automatically granted by the system; can't be revoked by user. |
+| `android.permission.FLAG_KEEP_SCREEN_ON` | Window flag: as long as this window is visible to the user, keep the device's screen turned on and bright. |
 
  <hr style="border:1px solid gray">
 
